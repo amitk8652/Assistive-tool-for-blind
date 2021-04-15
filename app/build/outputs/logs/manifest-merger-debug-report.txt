@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c9166a14dd475cd4c5cf47e20b76026a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0f9743c8be2c6b60067bab7bf03b0c2a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\fcff7e20a4bc5103c97f1d32b0baa11d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bc28f074e28e0b562388cdfd60c858ab\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7bd8017ef8452b82f0edb45ecd874013\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\eee30ada3a6d163a45fd549c72aeeb6c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\d7d2e084e07b8bdd92f1409c1131ce63\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\03f286ef290688bdddabe1cc1014012c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\371e44931788f6c5d22cc416957cb19d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\10e92cfcc8c8c7a5a3688b13adeb6257\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8ed5cbbcd31fff6f51e8534c8b75d0de\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae20145784912d3da09b753b50ae8400\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4eb753d41d8b8f7755165b6a7ba219eb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7a14d7d7f68cf21275f45abb186a6bf1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\35f7948839b8ddd2ed50d48b469caa79\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c40cece226a2589d2763009462102603\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\596873f046d2e10f8e204ad06f2e7ac4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\82d845c491d408eef41833944693ae74\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34165d6ec92ba2bd9717d5239a5229db\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:11:5-40:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c9166a14dd475cd4c5cf47e20b76026a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c9166a14dd475cd4c5cf47e20b76026a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0f9743c8be2c6b60067bab7bf03b0c2a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0f9743c8be2c6b60067bab7bf03b0c2a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\fcff7e20a4bc5103c97f1d32b0baa11d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\fcff7e20a4bc5103c97f1d32b0baa11d\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bc28f074e28e0b562388cdfd60c858ab\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bc28f074e28e0b562388cdfd60c858ab\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7bd8017ef8452b82f0edb45ecd874013\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7bd8017ef8452b82f0edb45ecd874013\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\eee30ada3a6d163a45fd549c72aeeb6c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\eee30ada3a6d163a45fd549c72aeeb6c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\d7d2e084e07b8bdd92f1409c1131ce63\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\d7d2e084e07b8bdd92f1409c1131ce63\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\371e44931788f6c5d22cc416957cb19d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\371e44931788f6c5d22cc416957cb19d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\10e92cfcc8c8c7a5a3688b13adeb6257\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\10e92cfcc8c8c7a5a3688b13adeb6257\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8ed5cbbcd31fff6f51e8534c8b75d0de\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8ed5cbbcd31fff6f51e8534c8b75d0de\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae20145784912d3da09b753b50ae8400\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae20145784912d3da09b753b50ae8400\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4eb753d41d8b8f7755165b6a7ba219eb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4eb753d41d8b8f7755165b6a7ba219eb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7a14d7d7f68cf21275f45abb186a6bf1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7a14d7d7f68cf21275f45abb186a6bf1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\35f7948839b8ddd2ed50d48b469caa79\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\35f7948839b8ddd2ed50d48b469caa79\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c40cece226a2589d2763009462102603\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c40cece226a2589d2763009462102603\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\596873f046d2e10f8e204ad06f2e7ac4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\596873f046d2e10f8e204ad06f2e7ac4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\82d845c491d408eef41833944693ae74\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\82d845c491d408eef41833944693ae74\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34165d6ec92ba2bd9717d5239a5229db\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34165d6ec92ba2bd9717d5239a5229db\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:15:9-43
+	android:icon
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:13:9-38
+	android:allowBackup
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.android.blinddigitalreader.Main4Activity
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:18:9-19:58
+	android:parentActivityName
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:18:19-48
+activity#com.example.android.blinddigitalreader.Main3Activity
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:20:9-21:47
+	android:theme
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:20:19-48
+activity#com.example.android.blinddigitalreader.MainActivity
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:22:9-23:47
+	android:theme
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.example.android.blinddigitalreader.Splash
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:theme
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:24:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.android.blinddigitalreader.Main2Activity
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:34:5-39:16
+	android:theme
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:35:9-41
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:34:15-44
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:36:9-38:35
+	android:value
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:38:13-32
+	android:name
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml:37:13-70
+uses-sdk
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c9166a14dd475cd4c5cf47e20b76026a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c9166a14dd475cd4c5cf47e20b76026a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0f9743c8be2c6b60067bab7bf03b0c2a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0f9743c8be2c6b60067bab7bf03b0c2a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\fcff7e20a4bc5103c97f1d32b0baa11d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\fcff7e20a4bc5103c97f1d32b0baa11d\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bc28f074e28e0b562388cdfd60c858ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bc28f074e28e0b562388cdfd60c858ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7bd8017ef8452b82f0edb45ecd874013\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7bd8017ef8452b82f0edb45ecd874013\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\eee30ada3a6d163a45fd549c72aeeb6c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\eee30ada3a6d163a45fd549c72aeeb6c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\d7d2e084e07b8bdd92f1409c1131ce63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\d7d2e084e07b8bdd92f1409c1131ce63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\03f286ef290688bdddabe1cc1014012c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\03f286ef290688bdddabe1cc1014012c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\371e44931788f6c5d22cc416957cb19d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\371e44931788f6c5d22cc416957cb19d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\10e92cfcc8c8c7a5a3688b13adeb6257\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\10e92cfcc8c8c7a5a3688b13adeb6257\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8ed5cbbcd31fff6f51e8534c8b75d0de\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\8ed5cbbcd31fff6f51e8534c8b75d0de\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae20145784912d3da09b753b50ae8400\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae20145784912d3da09b753b50ae8400\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4eb753d41d8b8f7755165b6a7ba219eb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4eb753d41d8b8f7755165b6a7ba219eb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7a14d7d7f68cf21275f45abb186a6bf1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7a14d7d7f68cf21275f45abb186a6bf1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\35f7948839b8ddd2ed50d48b469caa79\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\35f7948839b8ddd2ed50d48b469caa79\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c40cece226a2589d2763009462102603\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c40cece226a2589d2763009462102603\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\596873f046d2e10f8e204ad06f2e7ac4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\596873f046d2e10f8e204ad06f2e7ac4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\82d845c491d408eef41833944693ae74\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\82d845c491d408eef41833944693ae74\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34165d6ec92ba2bd9717d5239a5229db\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34165d6ec92ba2bd9717d5239a5229db\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c9166a14dd475cd4c5cf47e20b76026a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15GDR006TX\AndroidStudioProjects\BlindDigitalReader\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c9166a14dd475cd4c5cf47e20b76026a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bc28f074e28e0b562388cdfd60c858ab\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bc28f074e28e0b562388cdfd60c858ab\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7bd8017ef8452b82f0edb45ecd874013\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7bd8017ef8452b82f0edb45ecd874013\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4eb753d41d8b8f7755165b6a7ba219eb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4eb753d41d8b8f7755165b6a7ba219eb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7a14d7d7f68cf21275f45abb186a6bf1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7a14d7d7f68cf21275f45abb186a6bf1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\35f7948839b8ddd2ed50d48b469caa79\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\35f7948839b8ddd2ed50d48b469caa79\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c40cece226a2589d2763009462102603\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c40cece226a2589d2763009462102603\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\596873f046d2e10f8e204ad06f2e7ac4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\596873f046d2e10f8e204ad06f2e7ac4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\82d845c491d408eef41833944693ae74\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\82d845c491d408eef41833944693ae74\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c9166a14dd475cd4c5cf47e20b76026a\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c9166a14dd475cd4c5cf47e20b76026a\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\10e92cfcc8c8c7a5a3688b13adeb6257\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\10e92cfcc8c8c7a5a3688b13adeb6257\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\10e92cfcc8c8c7a5a3688b13adeb6257\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\10e92cfcc8c8c7a5a3688b13adeb6257\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae20145784912d3da09b753b50ae8400\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae20145784912d3da09b753b50ae8400\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae20145784912d3da09b753b50ae8400\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34165d6ec92ba2bd9717d5239a5229db\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34165d6ec92ba2bd9717d5239a5229db\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\15GDR006TX\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34165d6ec92ba2bd9717d5239a5229db\AndroidManifest.xml:26:13-58
