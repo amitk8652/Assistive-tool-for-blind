@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".Main4Activity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="450px"
+        android:layout_height="450px"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/button2"
+        android:src="@drawable/icon"
+        android:divider="@drawable/divider_shape"/>
+
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:text="Developed By DBIT" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:showDividers="end"
+        android:orientation="vertical"
+        android:id="@+id/lnr1"
+        android:layout_below="@id/imageView"
+        android:divider="@drawable/divider_drawable">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Feedback"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/feedback"
+            android:layout_height="wrap_content"
+            android:padding="5px"
+            android:text="@string/email"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:showDividers="end"
+        android:orientation="vertical"
+        android:layout_below="@id/lnr1"
+        android:id="@+id/lnr2"
+        android:divider="@drawable/divider_drawable">
+
+        <TextView
+            android:id="@+id/about"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:id="@+id/about1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This App is Useful for Visually Impaired People in Day to Day Life"
+            android:textAlignment="center"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:showDividers="end"
+        android:orientation="vertical"
+        android:layout_below="@id/lnr2"
+        android:textColor="@color/black"
+        android:divider="@drawable/divider_drawable">
+
+    <TextView
+        android:id="@+id/version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Version"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="25sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3.2.0"
+            android:textAlignment="center"
+            android:textSize="25sp"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

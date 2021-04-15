@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity">
+
+
+
+    <SurfaceView
+
+        android:id="@+id/surface_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+
+    <Button
+        android:id="@+id/open_camera"
+        android:layout_width="150dp"
+        android:layout_height="58dp"
+        android:text="Open Camera"
+        tools:context=".Main2Activity"
+        android:layout_alignParentStart="true"
+        android:alpha="0.5"
+        android:background="@android:color/black"
+        android:textColor="@android:color/white"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="438dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="150dp"
+        android:layout_height="58dp"
+        android:layout_toRightOf="@id/open_camera"
+        android:layout_centerHorizontal="true"
+        android:text="Share "
+        android:alpha="0.5"
+        android:background="@android:color/black"
+        android:textColor="@android:color/white"/>
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:id="@+id/ibutton"
+        android:src="@drawable/ic_action_name"
+        android:layout_toRightOf="@id/button3"
+        android:alpha="0.5"
+        android:layout_alignParentEnd="true"
+        android:background="@android:color/black" />
+
+
+    <TextView
+        android:id="@+id/detected_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/open_camera"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:scrollbars="vertical"
+        android:text=""
+        android:layout_margin="20dp"
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="75dp"
+        android:alpha="0.5"
+        android:background="@android:color/black"
+        android:textColor="@android:color/white"/>
+</RelativeLayout>
